@@ -1,0 +1,22 @@
+h1 {
+    font-family: Calibri, serif;
+    color: yellowgreen;
+}
+
+.first-entry{
+    background-color: blue;
+}
+.second-entry{
+    background-color: red;
+}
+.third-entry{
+    background-color: green;
+}
+
+img {
+    padding-left: 200px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 20px;
+    border-right-width: 10px;
+}
